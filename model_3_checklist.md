@@ -33,18 +33,25 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
    1. [ ] V5c
    1. [ ] Keys
    1. [ ] Any other paperwork, title, etc.
-1. [ ] Flashlight
 1. [ ] Phone with Tesla App downloaded and logged in. You will use your phone to access your Tesla on delivery day.
+1. [ ] Flashlight
+1. [ ] USB-C and -A cables to test ports
+1. [ ] Ruler or tape measure
+
 
 
 ## SECTION A - Verify pre-delivery vehicle records ##
 
 > Make sure the car you ordered is the car you're getting!
 
-1. [ ] Check for the correct full name and address on your paperwork
+1. [ ] Check for the correct full name and address on your paperwork (double check spelling!)
 1. [ ] Confirm the vehicle's VIN matches your paperwork
 1. [ ] Check the vehicle's "About" screen for any information that does not match the vehicle (found by tapping the car icon in the bottom-left, then tapping Software)
-1. [ ] Verify that the vehicle's Monroney record matches your configuration
+   1. [ ] This shows you what CPU you have (intel vs RYZEN)
+   1. [ ] Determine if you have an AUSTIN build or FREMONT build
+      - https://insideevs.com/news/561819/identify-tesla-origin-vin-decoder/
+   1. [ ] Still unknown how to tell if you have the new 4680 cells but mostly any Austin produced cars SHOULD have them
+1. [ ] Verify that the vehicle's Monroney record matches your configuration (RWD, Dual Motor, Performance, etc)
 1. [ ] Verify that the vehicle's body color, interior, and wheels match what you configured
 
 ## SECTION B - Exterior inspection ##
@@ -67,6 +74,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Front bumper
 1. [ ] Right front quarter panel
 1. [ ] Right front wheel
+   1. [ ] Check Aero covers, pull away, to reattach align tire pressure gauge with hole and push
 1. [ ] Right passenger door
 1. [ ] Right rear door
 1. [ ] Right rear wheel
@@ -83,6 +91,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 
 **OPEN ALL DOORS, INCLUDING FRUNK, TRUNK**
 1. [ ] Test power liftgate operation on trunk
+   1. [ ] Open and close
 1. [ ] Test all doors (including frunk and trunk) to ensure they open and close without unreasonable effort or sound
 1. [ ] Ensure door windows auto-close completely when doors are closed
 1. [ ] Check the frunk/trunk lighting
@@ -90,24 +99,34 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 
 ### Glass and seal condition
 1. [ ] Inspect all glass (including side mirrors) for signs of distortion, scratches, or cracks
+   1. [ ] Check for dual-pane front glass
+   1. [ ] Check for dual-pane rear glass
+   1. [ ] Ensure side mirrors have an outline around the insides of the mirror (indicates auto-dimming)
 1. [ ] Inspect the weather seals around door gaps and windows
 1. [ ] Verify that the water guards that line the trunk (below the rear windshield) are free and clear
 1. [ ] Check for proper windshield and windshield trim installation
 1. [ ] Inspect all edges of the roof glass panel and rear window
+   1. [ ] Roof seal
+   1. [ ] Push on roof glass to make sure it is firmly in place
 
 
 ## SECTION C - Interior inspection
 
-1. [ ] Inspect interior seat upholstery, door surfaces, dash, headliner and carpets (including passenger compartment, frunk, and trunk)
+1. [ ] Inspect interior seat upholstery, door surfaces, dash, headliner and carpets (including passenger compartment, 
+, and trunk)
 
 **SIT IN DRIVER'S SEAT**
 1. [ ] Check for any error messages on the display screen
 1. [ ] Check all four windows to ensure they roll up and down properly
+   1. [ ] Check that they make a good seal when rolled up and down
 1. [ ] Test the windshield wipers
+1. [ ] Test winshield wiper fluid
 1. [ ] Test the rearview camera
+1. [ ] Test sideview cameras
 1. [ ] Check side mirrors for proper operation of folding and position adjustment
 1. [ ] Test the steering wheel position controls to ensure proper operation
 1. [ ] Press the center of the steering wheel to make sure the vehicle's horn works
+1. [ ] Check steering whel for scratches or defects
 1. [ ] Check the rearview mirror for any warping or distortion
 1. [ ] Check sunvisor operation, mirror condition and lighting operation
 1. [ ] Front overhead driver and passenger lights
@@ -117,10 +136,30 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Check driver and passenger footwell lighting
 1. [ ] Check steering wheel control lights (they may need to be enabled in Driver settings)
 1. [ ] Test connectivity of wireless phone charger
+1. [ ] Test USB-C/-A ports
+   1. [ ] Front console
+   1. [ ] Armrest area
+   1. [ ] Glovebox
+   1. [ ] Rear
+1. [ ] Check for Tesla sentry thumbdrive in glovebox
+1. [ ] Blast heater to make sure it works
+1. [ ] Check heated seats (front and read)
+1. [ ] Check heated steering wheel
+1. [ ] Blast A/C to make sure the A/C works
+1. [ ] Check blower positioning control and range
+1. [ ] Check rear airflow
+   1. [ ] Make sure read air is on in the climate control
+1. [ ] Check coat hangers are even and not loose
+1. [ ] Make sure powered seats move smoothly in all directions
+1. [ ] Check rear seats recline properly
+   1. [ ] Check trunk switches in rear left work and fold the rear seats
 
 ### Infotainment inspection
 1. [ ] Test the sound system to ensure all speakers are working (move fade/balance to all four points to verify)
-1. [ ] Tap the "Toybox" icon at the bottom right of the screen and launch the Sketchpad app. Leave the Sketchpad up for a minute to make sure there are no phantom touches happening on the display, or dead pixels
+1. [ ] Tap the "Toybox" icon at the bottom right of the screen and launch the Sketchpad app.
+   1. [ ] Leave the Sketchpad up for a minute to make sure there are no phantom touches happening on the display, or dead pixels
+   1. [ ] Touch everywhere to make sure it all works and is responsive
+1. [ ] Go into screen cleaning mode to get a better view of scratches or defects
 
 **GET OUT OF THE DRIVER'S SEAT**
 1. [ ] Gently test the driver and passenger door emergency releases
@@ -135,7 +174,13 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 
 
 ## SECTION D - Lighting inspection
-1. [ ] Front headlights (low and high-beam) operation and alignment. Ensure there is no condensation inside the light's housing
+1. [ ] Push on all lights to makes sure they aren't loose and are equal on both sides
+1. [ ] Front headlights
+   1. [ ] Low-beam operation and alignment
+   1. [ ] High-beam operation and alignment
+   1. [ ] Ensure there is no condensation inside the light's housing ]
+   1. [ ] Check if matrix headlights or standard
+1. [ ] Check daytime running lights are evenly lit
 1. [ ] Front park lights
 1. [ ] Front fog lights
 
@@ -144,7 +189,8 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Left and right turn signal lights
 1. [ ] Rear turn signal lights
 1. [ ] Rear running lights
-1. [ ] Rear brake lights. Ensure there is no condensation inside the light's housing
+1. [ ] Rear brake lights
+   1. [ ] Ensure there is no condensation inside the light's housing 
 
 
 ## SECTION E - Charging ability
@@ -159,8 +205,28 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Pair your smartphone to your vehicle over Bluetooth
 
 
-## SECTION G - Optional equipment
-1. [ ] Check for front license plate bracket (if applicable in your region)
+## SECTION G - Included and optional equipment
+1. [ ] Check for mobile charger and NEMA 5-15 adapter
+1. [ ] Check for J1772 adapter
+1. [ ] Check for Tesla sentry thumbdrive in glovebox
 1. [ ] Check for the towing eye under the frunk mat
 1. [ ] Maryland state deliveries should include Tesla's official inflation kit (usually stowed in trunk)
+1. [ ] Check for front license plate bracket (if applicable in your region, usually stowed in trunk/frunk)
 1. [ ] Verify that any additional floor mats are included (if ordered)
+
+
+## SECTION H - Model-Version options check
+1. [ ] Check for AMD Ryzen processor (settings)
+1. [ ] Dual-pane front glass
+1. [ ] Dual-pane rear glass
+1. [ ] Mobile charger, NEMA 5-15, and cable
+1. [ ] Tesla sentry thumbdrive in glovebox
+1. [ ] New 12v Li-ion battery
+1. [ ] Matrix headlines (round projector on outter side, lightshow)
+1. [ ] CCS enabled (settings)
+1. [ ] Heated wiper park
+
+
+## SECTION I - Finishing
+1. [ ] DEMAND your car is marked as DELIVERED in Tesla's network, double check
+1. [ ] Make sure to get copies of MVPA (motor vehicle purchase agreement) and any DMV forms
