@@ -6,6 +6,35 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 
 ---
 
+## SECTION 0 - Getting Started
+
+### Quick Tips ###
+
+- TESLA is trying to do contactless delivery for most of their vehicles when possible
+- This takes away any power from you and forces you to automatically accept delivery despite the condition of the vehicle
+- If possible, accept delivery at a service center
+- When at the service center, they will ask for your name and inform you to scan the QR code to pay for your vehicle
+- Inform them that you want to inspect the interior and exterior of the vehicle BEFORE you pay
+- They may inform you it’s not possible, however tell them your friends have done it at other delivery centers and I’m not going to pay for the car without inspecting it
+- The policy may have changed but ensure that you take photos and submit a service request **BEFORE 100 miles** in the TESLA app under service for any issues
+- Inspection shouldn’t take more than an hour
+
+### Things to take with you ###
+
+1. [ ] A printed copy of *this* checklist
+1. [ ] Ink pen or pencil
+1. [ ] Driving license
+1. [ ] Details of any finance, proof of payments or Cashiers check
+   1. [ ] Routing/checking number (for ACH payments)
+1. [ ] Insurance documents
+   1. [ ] **Printed** insurance card
+1. [ ] Trade in:
+   1. [ ] V5c
+   1. [ ] Keys
+   1. [ ] Any other paperwork, title, etc.
+1. [ ] Flashlight
+
+
 ## SECTION A - Verify pre-delivery vehicle records ##
 
 > Make sure the car you ordered is the car you're getting!
