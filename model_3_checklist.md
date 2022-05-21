@@ -18,12 +18,13 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 - They may inform you it’s not possible, however tell them your friends have done it at other delivery centers and I’m not going to pay for the car without inspecting it
 - The policy may have changed but ensure that you take photos and submit a service request **BEFORE 100 miles** in the TESLA app under service for any issues
 - Inspection shouldn’t take more than an hour
+- Download and login to the Tesla App on your phone. You will use your phone to access your Tesla on delivery day.
 
 ### Things to take with you ###
 
 1. [ ] A printed copy of *this* checklist
 1. [ ] Ink pen or pencil
-1. [ ] Driving license
+1. [ ] Valid driver’s license (for all registrants)
 1. [ ] Details of any finance, proof of payments or Cashiers check
    1. [ ] Routing/checking number (for ACH payments)
 1. [ ] Insurance documents
@@ -33,6 +34,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
    1. [ ] Keys
    1. [ ] Any other paperwork, title, etc.
 1. [ ] Flashlight
+1. [ ] Phone with Tesla App downloaded and logged in. You will use your phone to access your Tesla on delivery day.
 
 
 ## SECTION A - Verify pre-delivery vehicle records ##
